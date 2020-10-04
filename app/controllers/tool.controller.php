@@ -13,7 +13,7 @@ class ToolController {
         $this->model = new ToolModel();
         $this->model1 = new RubroModel();
         $this->view = new ToolsView();
-    }
+    }q
 
     /**
      * Muestra la lista de herramientas
