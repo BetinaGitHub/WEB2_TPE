@@ -40,7 +40,7 @@ class ToolView {
         include 'templates/footer.php';
     }
     function showError($msg) {
-        echo "<h1> ERROR!</h1>";
+        echo "<h1> ERROR ALGO ANDA MALLLL !</h1>";
         echo "<h2> $msg </h2>";
     }
 
