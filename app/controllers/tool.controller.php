@@ -1,6 +1,6 @@
 <?php
 include_once 'app/models/tool.model.php';
-include_once 'app/models/rubro.model.php';
+include_once 'app/models/category.model.php';
 include_once 'app/views/tool.view.php';
 
 class ToolController {
