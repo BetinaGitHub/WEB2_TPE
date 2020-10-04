@@ -1,7 +1,11 @@
+<<<<<<< HEAD
+
+=======
+>>>>>>> 7f47a3dd031a062cd6a5f7dc411c5443d0c46cf0
 <body>
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-success">
-            <a class="navbar-brand" href="home">MAQUINARIAS AGRICOLAS USADAS</a>
+            <a class="navbar-brand" href="home">MAQUINAS AGRICOLAS USADAS</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
