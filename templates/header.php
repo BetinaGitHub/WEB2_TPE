@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 7f47a3dd031a062cd6a5f7dc411c5443d0c46cf0
 <body>
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-success">

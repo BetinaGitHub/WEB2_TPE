@@ -55,8 +55,7 @@ class ToolController {
         //var_dump($tools);
         //die;
     }
- 
- 
+  
 
     /**
      * Inserta una herramienta en la base
