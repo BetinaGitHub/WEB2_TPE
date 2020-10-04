@@ -12,7 +12,7 @@ class ToolController {
     function __construct() {
         $this->model = new ToolModel();
         $this->model1 = new RubroModel();
-        $this->view = new ToolView();
+        $this->view = new ToolsView();
     }
 
     /**
