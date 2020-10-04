@@ -11,7 +11,7 @@ class ToolController {
 
     function __construct() {
         $this->model = new ToolModel();
-        $this->model1 = new RubroModel();
+        $this->model1 = new CategoryModel();
         $this->view = new ToolsView();
     }q
 
